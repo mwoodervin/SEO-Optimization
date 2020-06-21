@@ -7,4 +7,4 @@ The following changes were made to the HTML and CSS files:
 - Repaired links to web page sections
 - Added semantic HTML tags to incease readablity for search engines
 - Restructured CSS file for clarity
-- Added comments to both HTML and CSS files to increase user 
+- Added comments to both HTML and CSS files 
